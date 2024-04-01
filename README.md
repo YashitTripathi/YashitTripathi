@@ -4,8 +4,6 @@ I'm Yashit,
 - 🌱 I’m currently expanding my skills in web development.
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
- 
-- 📫 How to reach me: yashittripathi@gmail.com
   
 - 😄 Pronouns: he/him
 
